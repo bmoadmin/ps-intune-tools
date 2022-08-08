@@ -1,0 +1,4 @@
+# Ignore executables, MSIs, and intune package files
+*.msi
+*.exe
+*.intunewin
